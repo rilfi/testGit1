@@ -31,6 +31,7 @@ public class FJF {
 
     public static void doneByRilfi(){
         System.out.println("hi");
+        System.out.println("bye");
 
     }
 }
