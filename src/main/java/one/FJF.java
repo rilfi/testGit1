@@ -1,4 +1,4 @@
-package main.java.one;
+package one;
 
 public class FJF {
 
